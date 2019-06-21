@@ -5,7 +5,7 @@
 	classes and resources of the web application and packaging them into a web 
 	application archive</li>
 
-2.Create Spring App Configuration<br>
-3.Create Spring Dispatcher Servlet Initializer<br>
-4.Develop Spring Controller<br>
+2.Create Spring App Configuration and Security Configuration<br>
+3.Create Spring Dispatcher Servlet Initializer and Security Web App Initializer<br>
+4.Develop Spring Controllers<br>
 5.Develop JSP view pages
