@@ -7,7 +7,9 @@
 2. Create Spring App Configuration and Security Configuration<br>
 3. Create Spring Dispatcher Servlet Initializer and Security Web App Initializer<br>
 4. Develop Spring Controllers<br>
-5. Develop JSP view pages<br></br>
+5. Develop JSP view pages<br>
+
+<hr>
 
 <b>Sign in page:</b></br>
 
