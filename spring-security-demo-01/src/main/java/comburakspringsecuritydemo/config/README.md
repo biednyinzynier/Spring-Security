@@ -1,4 +1,4 @@
-<b>DemoAppConfig<b> ---> Includes Pure Java(No Xml) configurations, view resolver and mvc configs.<br>
+<b>DemoAppConfig</b> ---> Includes Pure Java(No Xml) configurations, view resolver and mvc configs.<br>
 
 DemoSecurityConfig ---> Includes security configurations, defining user,password and role, configuring security of web paths in app,login,logout also includes restricts and accesses.<br><br>
 
