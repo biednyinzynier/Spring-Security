@@ -9,4 +9,4 @@
 4. Develop Spring Controllers<br>
 5. Develop JSP view pages<br></br>
 
-![](images/login-page.png)
+![](images/loginpage.png)
