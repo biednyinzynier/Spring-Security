@@ -9,7 +9,9 @@
 
 <hr>
 
-This demo same as demo-01. Differences are the authorities user and password provided by database, also password stores as bcrypt.<br><br/>
+This demo same as demo-01. Differences are the authorities user and password provided by database, also password stores as bcrypt.<br>
+
+<hr>
 
 <b>Sign in page:</b></br>
 
