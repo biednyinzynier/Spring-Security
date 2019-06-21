@@ -9,6 +9,38 @@
 4. Develop Spring Controllers<br>
 5. Develop JSP view pages<br></br>
 
-<b>Sign In Page</b><br></br>
+<b>Sign in page:</b></br>
 
 ![](images/loginpage.png)
+
+<b>Invalid username or password :</b></br>
+
+![](images/invalid.png)
+
+<b>Employee role's home :</b></br>
+
+![](images/employeehome.png)
+
+<b>After log out :</b></br>
+
+![](images/logout.png)
+
+<b>Manager role's home :</b></br>
+
+![](images/managerhome.png)
+
+<b>Only manager role's access page :</b></br>
+
+![](images/onlymanager.png)
+
+<b>Admin role's home :</b></br>
+
+![](images/adminhome.png)
+
+<b>Only admin role's access page :</b></br>
+
+![](images/onlyadmin.png)
+
+<b>Access Denied Page :</b></br>
+
+![](images/accessdenied.png)
