@@ -4,7 +4,6 @@
 	<li>The WAR Plugin is responsible for collecting all artifact dependencies, 
 	classes and resources of the web application and packaging them into a web 
 	application archive</li>
-
 2. Create Spring App Configuration and Security Configuration<br>
 3. Create Spring Dispatcher Servlet Initializer and Security Web App Initializer<br>
 4. Develop Spring Controllers<br>
