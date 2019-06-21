@@ -1,6 +1,6 @@
 <h3>Development Process</h3>
-1.Add Maven dependencies for Spring MVC Web App<br>
-	<li>spring mvc,spring security,servlet,jsp,jstl,maven war plugin</li>
+1.Add Maven dependencies for Spring MVC Web App
+	<li>Spring mvc,spring security,servlet,jsp,jstl,maven war plugin</li>
 	<li>The WAR Plugin is responsible for collecting all artifact dependencies, 
 	classes and resources of the web application and packaging them into a web 
 	application archive</li>
